@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: twitter_wrapper
+        psr4_prefix: twitter_wrapper
+        src_path: app
