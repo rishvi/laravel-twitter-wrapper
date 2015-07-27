@@ -4,6 +4,7 @@
  *
  * @package  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
+ * @author   Rishvi Saripalli <rishvi.saripally@sitback.com.au>
  */
 
 $uri = urldecode(
